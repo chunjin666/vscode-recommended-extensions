@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "johnsoncodehk.volar",
+    "xabikos.JavaScriptSnippets",
+    "hollowtree.vue-snippets",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.auto-rename-tag",
+    "antfu.iconify",
+    "mikestead.dotenv",
+    "steoates.autoimport",
+    "wix.vscode-import-cost",
+    "ms-vscode.live-server",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "formulahendry.code-runner",
+    "christian-kohler.path-intellisense",
+    "zignd.html-css-class-completion",
+    "mrmlnc.vscode-scss",
+    "mrmlnc.vscode-less",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "tabnine.tabnine-vscode",
+    "github.copilot",
+    "coderfee.vscode-wxml",
+    "chandzhang.wechat-snippet",
+    "qiu8310.minapp-vscode"
+  ]
+}
